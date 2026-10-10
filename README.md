@@ -3,3 +3,4 @@
 "Meu projeto est  no Github!" 
 "Linha de teste para aprender desfazer o git add" 
 "Aprendendo a corrigir commits com Git." 
+"Corre‡Æo: posso adicionar nova versäes do projeto" 
